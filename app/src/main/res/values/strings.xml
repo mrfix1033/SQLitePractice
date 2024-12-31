@@ -8,4 +8,5 @@
     <string name="load">Загрузить</string>
     <string name="weight_unit">кг</string>
     <string name="price_unit">р</string>
+    <string name="what_do_you_want_to_do">Что вы хотите сделать?</string>
 </resources>
