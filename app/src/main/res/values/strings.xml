@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLitePractice</string>
+    <string name="weight">Вес</string>
+    <string name="title">Название</string>
+    <string name="price">Цена</string>
+    <string name="exit">Выход</string>
+    <string name="save">Сохранить</string>
+    <string name="load">Загрузить</string>
+    <string name="weight_unit">кг</string>
+    <string name="price_unit">р</string>
+</resources>
